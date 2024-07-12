@@ -96,3 +96,5 @@ def menu():
             print("opcion no valida ingrese solo las opciones que se le aparece")
 if __name__ == "__main__":
     menu()
+dhddyttdtydtd
+yytft
